@@ -5,7 +5,7 @@ public class skuddar3 {
 
 public static void main(String[] args) {
     
-    String tommerLeng = showInputDialog("Hvor mange tommer?");
+    String tommerLeng = showInputDialog("tall?");
     Integer tommer = Integer.parseInt(tommerLeng);
     
     System.out.println(tommer);

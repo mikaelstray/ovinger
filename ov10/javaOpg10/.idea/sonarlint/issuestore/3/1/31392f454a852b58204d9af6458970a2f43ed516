@@ -1,0 +1,7 @@
+
+’
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÎÛ®ùÿÿÿÿ8Â¸±¸1
+5
+java:S1700"Rename field "meny"(Ü¥€Ñøÿÿÿÿ8Ã¸±¸1
+r
+java:S12064"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Í¸±¸1

@@ -17,7 +17,8 @@ public static void main(String[] args) {
 System.out.println(forhold1);
 System.out.println(forhold2);
 
-if(forhold1 < forhold2){
+if(forhold1==forhold2){System.out.println("Like");}
+else if(forhold1 < forhold2){
     System.out.println("1 er billigere");
 } else{
     System.out.println("2 er billigere");

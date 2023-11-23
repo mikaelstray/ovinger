@@ -1,0 +1,15 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "arr2".( ß€Ä8ÀÝè¯¸1
+U
+java:S1854"8Remove this useless assignment to local variable "arr1".(Ùà”å8ÁÝè¯¸1
+F
+java:S1481")Remove this unused "arr1" local variable.(Ùà”å8ÆÝè¯¸1
+F
+java:S1481")Remove this unused "arr2" local variable.( ß€Ä8ÈÝè¯¸1
+G	java:S106"+Replace this use of System.out by a logger.(¤Íî•8ÈÝè¯¸1
+G	java:S106"+Replace this use of System.out by a logger.(Ú…ý˜8ËÝè¯¸1
+N
+java:S1128",Remove this unused import 'java.time.Month'.(¤‚ŽÉøÿÿÿÿ8ÎÝè¯¸1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÏÝè¯¸1
